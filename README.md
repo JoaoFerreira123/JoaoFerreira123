@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/JoaoFerreira123">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="João Vitor Antoniacomi Ferreira github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="JoaoFerreira123 github stats"/>
 </a>
