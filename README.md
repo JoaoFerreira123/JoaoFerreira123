@@ -25,8 +25,8 @@
 <img alt="esp" src="https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 <img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img alt"rasp" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-<img alt="solid" src="https://img.shields.io/badge/SOLIDWORKS-E7352C?style=for-the-badge&logoColor=white">
-<img alt="fusion" src=https://img.shields.io/badge/Fusion360-%23FB923C.svg?style=for-the-badge&logoColor=white">
+<img alt="solid" src="https://img.shields.io/badge/SOLIDWORKS-%23D00000.svg?style=for-the-badge&logoColor=white">
+<img alt="fusion" src="https://img.shields.io/badge/Fusion 360-%23FB923C.svg?style=for-the-badge&logoColor=white">
 
 
 </div></br><br><br>
