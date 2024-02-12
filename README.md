@@ -2,18 +2,17 @@
 <h3>Hey! I'm:</h3>
 <img alt="banner" align="centeR" src="./JoaoFerreira.gif">
 <h2> Estudante de Engenharia Mecatrônica</h2>
-<h3>About Me</h3>
-<li>Computer Engineering student at UTFPR</li>
-<li> Former student at ONE - Oracle Next Education</li>
-<li> Passionate about Math, Design, and Programming</li>
+<h3>Sobre Mim</h3>
+<li> Entusiasta de Robótica</li>
+<li> I'm a Maker  - Adoro Tirar Ideias do Papel</li>
 
-<h3>Follow me on Social Midia:</h3>
+<h3>Minhas Redes:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-antoniacomi-ferreira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/joao_antoniacomi/)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerreira123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
  </div>
-<h1 align='center'> Hard Skills</h1>
+<h1 align='center'> Habilidades</h1>
 
 <div style="display: inline_block" align='center'><br/>
 
