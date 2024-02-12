@@ -1,6 +1,6 @@
 <div style: align='center'>
 <h3>Hey! I'm:</h3>
-<h1> João Ferreira </h1>
+<img alt="banner" align="centeR" src="./JoaoFerreira.gif">
 <h2> Estudante de Engenharia Mecatrônica</h2>
 <h3>About Me</h3>
 <li>Computer Engineering student at UTFPR</li>
