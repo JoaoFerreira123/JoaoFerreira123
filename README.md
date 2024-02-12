@@ -1,5 +1,5 @@
 <div style: align='center'>
-<h3>Hey! I'm:</h3>
+<h3>Olá, mundo! Eu sou: </h3>
 <img alt="banner" align="centeR" src="./JoaoFerreira.gif">
 <h2> Estudante de Engenharia Mecatrônica</h2>
 <h3>Sobre Mim</h3>
