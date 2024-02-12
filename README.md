@@ -1,6 +1,6 @@
 <div style: align='center'>
 <h3>Olá, mundo! Eu sou: </h3>
-<img alt="banner" align="centeR" src="./JoaoFerreira.gif">
+<img alt="banner" align="centeR" src="./JoaoFerreira2.gif">
 <h2> Estudante de Engenharia Mecatrônica</h2>
 <h3>Sobre Mim</h3>
 <li> Entusiasta de Robótica</li>
